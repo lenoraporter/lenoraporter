@@ -8,6 +8,7 @@
 - [ ] Jump back into open source projects
 - [ ] List out open source projects I'm interested in
 - [ ] [Q1 Goal] Code each day for atleast 30 minutes Mon-Friday
+- [ ] [Q1 Goal] Publish YouTube videos weekly
 
 
 <!---
