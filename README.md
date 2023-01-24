@@ -9,6 +9,11 @@
 - [ ] List out open source projects I'm interested in
 - [ ] [Q1 Goal] Code each day for atleast 30 minutes Mon-Friday
 - [ ] [Q1 Goal] Publish YouTube videos weekly
+  - [ ] JAN video 1
+  - [ ] JAN video 2
+  - [ ] JAN video 3
+  - [ ] JAN video 4
+- [ ] [Q1 Goal] Find more leadership opportunities
 
 
 <!---
