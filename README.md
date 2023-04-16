@@ -14,6 +14,7 @@
   - [ ] JAN video 3
   - [ ] JAN video 4
 - [ ] [Q1 Goal] Find more leadership opportunities
+- [ ] [Q2 Goal] Write a Figma Plugin
 
 
 <!---
