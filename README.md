@@ -1,21 +1,43 @@
-- 👋 Hi, I’m @lenoraporter
-- 👀 I’m interested in learning as a designer
-- 🌱 I’m currently learning the Digital Ocean platform
-- 💞️ I’m looking to collaborate on learning, JavaScript projects and design.
-- 📫 How to reach me [Twitter](https://twitter.com/lenoraporter_), [LinkedIn](https://www.linkedin.com/in/lenoraporter/), [Website](https://www.lenoraporter.com/) and [YouTube](https://www.youtube.com/c/LenoraPorterLP/videos)
+# Hey There, I'm Lenora 👋🏾
+
+I’m currently a Senior Product Designer at [DigitalOcean](https://www.digitalocean.com/), specializing in design systems. With over 8 years of experience in the design field, I spent my tenure focused on developer experience and cloud computing experiences. Previously, I've worked with prominent companies such as [Salesforce](https://www.salesforce.com/), [Heroku](https://www.heroku.com/), and [Skillshare](https://www.skillshare.com/en/).
+
+## About Me
+
+- 👀 **I'm eager to** collaborate with individuals in the design system or developer experience domains.
+- 💬 **Ask me about** JavaScript, design, design systems, developer experience, cloud computing, building a career in tech, content creation, and personal branding.
+- ✨ **My interests include** problem-solving, engaging conversations, gardening, traveling, woodworking, and quality time with loved ones.
+- 👩🏾‍🦱 **Pronouns:** She/Her
+- 📫 **Connect with me** on [LinkedIn](https://www.linkedin.com/in/lenoraporter/)!
+
+## Explore Further
+
+- 🌍 Check out my [Personal Website](https://www.lenoraporter.com/).
+- 📚 See what I'm reading on [Goodreads](https://www.goodreads.com/user/show/97677176-lenora-porter).
+- 🖼 View my creative side on [CodePen](https://codepen.io/lenoraporter).
+- ✍🏾 Read my insights on [Medium](https://medium.com/@lenora.design).
 
 ## Goals
-- [ ] Jump back into open source projects
-- [ ] List out open source projects I'm interested in
-- [ ] [Q1 Goal] Code each day for atleast 30 minutes Mon-Friday
-- [ ] [Q1 Goal] Publish YouTube videos weekly
-  - [ ] JAN video 1
-  - [ ] JAN video 2
-  - [ ] JAN video 3
-  - [ ] JAN video 4
-- [ ] [Q1 Goal] Find more leadership opportunities
-- [ ] [Q2 Goal] Write a Figma Plugin
 
+- Incorporating OpenAI and automation within a Design System
+- Cultivating a writing habit to share my learnings
+- Engaging in more public learning endeavors
+- Expanding my knowledge of accessibility
+
+## My Writing
+
+*Upcoming Post*
+
+- *My First 90 days working on DigitalOcean’s Design System*
+- *Conducting a Listening Tour*
+- *Training my First AI Model*
+
+**2024**
+
+None
+
+**2023**
+- [5 Must-Watch Movies for Design System Teams](https://medium.com/design-bootcamp/5-must-watch-movies-for-design-system-teams-f3ed09f408f5)
 
 <!---
 lenoraporter/lenoraporter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
