@@ -31,8 +31,8 @@ I’m currently a Senior Product Designer at [DigitalOcean](https://www.digitalo
 *Upcoming Post*
 
 - *My First 90 days working on DigitalOcean’s Design System*
-- *Learning Python to play with DigitalOcean’s latest Acquistion: Paperspace*
-- *Creating a Brand for the Walrus Design System*
+- *System Thinking for Designers*
+- *Learning Python to Gain Knowledge in the AI Space*
 - *Conducting Your First Design System Listening Tour*
 - *Training my First AI Model*
 
