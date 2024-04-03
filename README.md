@@ -38,7 +38,7 @@ I’m currently a Senior Product Designer at [DigitalOcean](https://www.digitalo
 
 **2024**
 
-None
+- [Building a Chatbot with Node.js and OpenAI](https://github.com/lenoraporter/mywriting-2024/blob/main/Build-a-Nodejs-Chatbot-with-OpenAI.md)
 
 **2023**
 - [5 Must-Watch Movies for Design System Teams](https://medium.com/design-bootcamp/5-must-watch-movies-for-design-system-teams-f3ed09f408f5)
