@@ -7,7 +7,7 @@ I’m currently a Senior Product Designer at [DigitalOcean](https://www.digitalo
 - 👀 **I'm eager to** collaborate with individuals in the design system or developer experience domains.
 - 💬 **Ask me about** JavaScript, design, design systems, developer experience, cloud computing, building a career in tech, content creation, and personal branding.
 - ✨ **My interests include** problem-solving, engaging conversations, gardening, traveling, woodworking, and quality time with loved ones.
-- 📘 **Currently Reading**: The Presentation Secrets of Steve Jobs
+- 📘 **Currently Reading**: The Creative Act: A Way of Being
 - 💡 **Currently Learning**: Python to practice some AI coolness.
 - 👩🏾‍🦱 **Pronouns:** She/Her
 - 📫 **Connect with me** on [LinkedIn](https://www.linkedin.com/in/lenoraporter/)!
