@@ -37,7 +37,7 @@ I’m currently a Senior Product Designer at [DigitalOcean](https://www.digitalo
 - *Training my First AI Model*
 
 **2024**
-
+- [Conducting Your First Design System Listening Tour](https://github.com/lenoraporter/mywriting-2024/blob/main/Design-System-Listening-Tour.md)
 - [Building a Chatbot with Node.js and OpenAI](https://github.com/lenoraporter/mywriting-2024/blob/main/Build-a-Nodejs-Chatbot-with-OpenAI.md)
 
 **2023**
