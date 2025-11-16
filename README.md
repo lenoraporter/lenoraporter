@@ -1,6 +1,6 @@
 # Hey There, I'm Lenora 👋🏾
 
-I’m currently a Senior Product Designer at [DigitalOcean](https://www.digitalocean.com/), specializing in design systems. With over 8 years of experience in the design field, I spent my tenure focused on developer experience and cloud computing experiences. Previously, I've worked with prominent companies such as [Salesforce](https://www.salesforce.com/), [Heroku](https://www.heroku.com/), and [Skillshare](https://www.skillshare.com/en/).
+I’m currently a Staff Product Designer at [Jasper](https://www.jasper.com/), specializing in design systems and 0 -> 1  experiences. With over 10 years of experience in the design field, I spent my tenure focused on developer experience and cloud computing experiences. Previously, I've worked with prominent companies such as [DigitalOcean](https://www.digitalocean.com/), [Salesforce](https://www.salesforce.com/), [Heroku](https://www.heroku.com/), and [Skillshare](https://www.skillshare.com/en/).
 
 ## About Me
 
@@ -14,7 +14,7 @@ I’m currently a Senior Product Designer at [DigitalOcean](https://www.digitalo
 
 ## Explore Further
 
-- 🌍 Check out my [Personal Website](https://www.lenoraporter.com/).
+- 🌍 Check out my [Personal Website](https://www.lenora.design/).
 - 📚 See what I'm reading on [Goodreads](https://www.goodreads.com/user/show/97677176-lenora-porter).
 - 🖼 View my creative side on [CodePen](https://codepen.io/lenoraporter).
 - ✍🏾 Read my insights on [Medium](https://medium.com/@lenora.design).
